@@ -1,1 +1,5 @@
-This is a conflicting content snippet
+# References
+
+* octocat 1 😈# References
+
+* octocat 1 😈
